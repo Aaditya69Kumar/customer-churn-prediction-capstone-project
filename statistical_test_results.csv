@@ -1,0 +1,18 @@
+Variable,Chi-square,p-value,df,Cramer's V,Result
+Contract,1184.6,5.863e-258,2,0.41,Significant
+TenureGroup,856.1,2.944e-185,3,0.349,Significant
+InternetService,732.31,9.572e-160,2,0.322,Significant
+PaymentMethod,648.14,3.682e-140,3,0.303,Significant
+PaperlessBilling,258.28,4.073e-58,1,0.191,Significant
+OnlineSecurity,205.63,1.232e-46,1,0.171,Significant
+Dependents,189.13,4.925e-43,1,0.164,Significant
+TechSupport,190.17,2.924e-43,1,0.164,Significant
+SeniorCitizen,159.43,1.510e-36,1,0.15,Significant
+Partner,158.73,2.140e-36,1,0.15,Significant
+OnlineBackup,47.26,6.214e-12,1,0.082,Significant
+DeviceProtection,30.51,3.316e-08,1,0.066,Significant
+StreamingTV,27.86,1.302e-07,1,0.063,Significant
+StreamingMovies,26.25,2.997e-07,1,0.061,Significant
+MultipleLines,11.14,8.434e-04,1,0.04,Significant
+PhoneService,0.92,0.3388,1,0.011,Not significant
+gender,0.48,0.4866,1,0.008,Not significant
